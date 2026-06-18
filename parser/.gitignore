@@ -1,6 +1,7 @@
 __pycache__/
 .idea/
 .venv/
+myvenv/
 .vscode/
 krisha.egg-info/
 logs/
