@@ -144,4 +144,3 @@ streamlit run app.py
 ## Авторство
 
 - Сбор данных: [парсер krisha.kz от andprov](https://github.com/andprov/krisha.kz), лицензия MIT.
-- ML-пайплайн, моделирование и приложение: **Maksat Mukan** ([github.com/m1maka-creator](https://github.com/m1maka-creator)).
