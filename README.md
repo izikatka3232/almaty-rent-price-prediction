@@ -144,4 +144,3 @@ Being explicit about the current state:
 ## Credits
 
 - Data collection: [krisha.kz parser by andprov](https://github.com/andprov/krisha.kz), MIT License.
-- ML pipeline, modeling and application: **Maksat Mukan** ([github.com/m1maka-creator](https://github.com/m1maka-creator)).
